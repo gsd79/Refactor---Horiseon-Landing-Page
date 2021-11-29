@@ -2,7 +2,8 @@
 
 ## links and screen shot
 The live url to the application is : LINK HERE
-![webpage screenshot](./assets/images/final_landing_page.png)
+
+![webpage screenshot](final_landing_page.png)
 
 ## Introduction 
 
