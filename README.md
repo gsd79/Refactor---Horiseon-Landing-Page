@@ -1,5 +1,6 @@
 # Horiseon Landing Page (code refactor project)
-
+The live url to the application is : LINK HERE
+![webpage screenshot](./assets/images/final_landing_page.png?raw=true)
 
 The accompaning application is one that attempts to be in keeping with the bellow outlined criteria:
 
@@ -54,5 +55,5 @@ Repository contains multiple descriptive commit messages.
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
 
-The live URL to the application is : LINK HERE
+
 
