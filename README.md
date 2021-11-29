@@ -3,7 +3,7 @@
 ## Links and screen shot
 The live url to the application is : LINK HERE
 
-![webpage screenshot](https://i.postimg.cc/wHLZzThC/01-html-css-git-homework-demo.png)
+![webpage screenshot](/assets/images/final_landing_page.png?raw=true)
 
 ## Introduction and Criteria
 
