@@ -1,11 +1,11 @@
 # Horiseon Landing Page (code refactor project)
 
-## links and screen shot
+## Links and screen shot
 The live url to the application is : LINK HERE
 
-![webpage screenshot](final_landing_page.png)
+![webpage screenshot](https://i.postimg.cc/wHLZzThC/01-html-css-git-homework-demo.png)
 
-## Introduction 
+## Introduction and Criteria
 
 The accompaning application is one that attempts to be in keeping with the bellow outlined criteria:
 
