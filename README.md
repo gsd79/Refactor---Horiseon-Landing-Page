@@ -3,7 +3,7 @@
 
 ## Purpose
 
-The accompaning application is one that attempts to be in keeping with the outlined criteria and is functional without errors/ 
+The accompaning application is one that attempts to be in keeping with the outlined criteria and is functional without errors. 
 
 ## Built With
 *CSS
