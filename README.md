@@ -1,35 +1,22 @@
 # Horiseon Landing Page (code refactor project)
+![webpage screenshot](./assets/images/final_landing_page.png) 
 
-## Links and screen shot
-The live url to the application is : LINK HERE
+## Purpose
 
-![webpage screenshot](./Develop/assets/images/final_landing_page.png)
+The accompaning application is one that attempts to be in keeping with the outlined criteria and is functional without errors/ 
 
-## Introduction and Criteria
+## Built With
+*CSS
+*HTML
 
-The accompaning application is one that attempts to be in keeping with the bellow outlined criteria:
 
-* GIVEN a webpage meets accessibility standards
+## Website
+* https://gsd79.github.io/horiseon_landing_page/#social-media-marketing
 
-* WHEN I view the source code
+## Contribution
 
-* THEN I find semantic HTML elements
+This application was written by Grace Dringenburg exclusively for the purpose of Butler Executive Education Coding Boot Camp 
 
-* WHEN I view the structure of the HTML elements
-
-* THEN I find that the elements follow a logical structure independent of styling and positioning
-
-* WHEN I view the image elements
-
-* THEN I find accessible alt attributes /* I HAVE CHOSEN TO OMIT THE ALT ATTRIBUTE FOR THE HERO IMAGE, PER IT BEING A BACKGROUND IMAGE AND THUS AESTHETIC ONLY.*/
-
-* WHEN I view the heading attributes
-
-* THEN they fall in sequential order
-
-* WHEN I view the title element
-
-* THEN I find a concise, descriptive title
 
 
 
